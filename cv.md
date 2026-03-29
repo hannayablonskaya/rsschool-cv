@@ -5,7 +5,7 @@
 * phone: +375 29 2038176
 ## location: Minsk, Belarus
 ## About me
-I am 36 y.o. I graduated from BSEU as a marketer in 2010. My first job was as a customer service manager in a printing company. It was here that I learned to communicate with people, finding an approach to everyone personally.I learned to hear people and build trusting and friendly relationships with clients.I work as an accountant with a telecommunications company now. I always wanted to find myself and develop in what I love. So I started learning JS at RSSchool.
+I am 41 y.o. I graduated from BSEU as a marketer in 2010. My first job was as a customer service manager in a printing company. It was here that I learned to communicate with people, finding an approach to everyone personally.I learned to hear people and build trusting and friendly relationships with clients.I work as an accountant with a telecommunications company now. I always wanted to find myself and develop in what I love. So I started learning JS at RSSchool.
 ## Skills:
 * HTML
 * CSS
