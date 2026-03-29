@@ -16,4 +16,4 @@ I am 36 y.o. I graduated from BSEU as a marketer in 2010. My first job was as a 
 * RSSchool 2021 - 2022
 ## languages
 * Russian - native 
-* English - A2
+* English - B1
