@@ -1,2 +1,2 @@
 [# rsschool-cv](https://hannayablonskaya.github.io/rsschool-cv/cv)
-https://hannayablonskaya.github.io/rsschool-cv/
+[# my-cv](https://hannayablonskaya.github.io/rsschool-cv/)
