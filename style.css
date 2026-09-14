@@ -16,7 +16,6 @@ a {
 .wrapper{
     display: flex;
     font-size: 18px;
-
 }
 .left-column{
     width: 45%;
@@ -56,7 +55,6 @@ a {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     border-radius: 4px;
     background-color: rgb(164, 214, 216);
-
 }
 .me{
     padding: 30px;
@@ -66,25 +64,24 @@ a {
 .me1{
     margin-right: 15px;
     border-radius: 30px;
-    }
+}
 .me1 img{
     margin-bottom: 10px;
     border: 5px solid rgb(164, 214, 216);
     border-radius: 20%;
-} 
+}
 .name h2{
     margin-bottom: 20px;
     font-size: 1.3rem;
     letter-spacing: 2px;
 }
-.name{   
+.name{
     color: #211974;
     font-size: 2rem;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
-
-    }
+}
 .h2 h2{
     margin: 20px auto 20px;
     padding: 5px 20px;
@@ -101,25 +98,25 @@ a {
        background-color: rgb(164, 214, 216);
 }
 .left_info{
-        padding: 0 ;
+        padding: 0;
 }
-.contacts {
+.contacts{
     color:rgb(15, 15, 49);
     font-size: 1.5rem;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
-.location {
+.location{
     color:rgb(15, 15, 49);
     font-size: 1.5rem;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
-.aboutme {
+.aboutme{
     color:rgb(15, 15, 49);
-    text-align:justify; 
+    text-align:justify;
     font-size: 1.3rem;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
@@ -155,10 +152,10 @@ a {
     padding-bottom: 1rem;
 }
 .mycode{
-       border-bottom: 2px solid rgb(15, 15, 49); 
+       border-bottom: 2px solid rgb(15, 15, 49);
        padding-bottom: 1rem;
 }
-footer {
+footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
